@@ -1,4 +1,5 @@
 # Instagram.js plugin for Rails
+[![Gem Version](https://badge.fury.io/rb/instagramjs-rails.png)](http://badge.fury.io/rb/instagramjs-rails)
 
 A ruby gem that uses the Rails asset pipeline to include the the Instagram.js plugin by Giovanni Cappellotto:
 
