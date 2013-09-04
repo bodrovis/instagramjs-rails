@@ -15,6 +15,7 @@ plugin by Giovanni Cappellotto."
   gem.name          = "instagramjs-rails"
   gem.require_paths = ["lib"]
   gem.version       = InstagramJS::Rails::VERSION
-  
+  gem.license       = 'MIT'
+
   gem.add_dependency "railties", "~> 3.1"
 end
